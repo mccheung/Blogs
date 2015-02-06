@@ -1,4 +1,4 @@
-Continue getting a partially-downloaded file
+How to wget continue getting a partially-downloaded file
 ==============================================
 
 ### 断点续传
